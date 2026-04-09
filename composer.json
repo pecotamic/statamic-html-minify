@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": "^8.2",
-        "statamic/cms": "^5.0",
+        "statamic/cms": "^5.0|^6.0",
         "voku/html-min": "^4.4"
     },
     "require-dev": {
